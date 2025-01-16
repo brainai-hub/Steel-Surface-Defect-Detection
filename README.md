@@ -1,1 +1,2 @@
-# Steel-Surface-Defect-Detection
+# 문제 정의(Problem Scoping)
+
