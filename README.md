@@ -9,6 +9,10 @@ images.
 ![image](https://github.com/user-attachments/assets/ebb226b5-2d78-40f1-8a15-6459f886980d)
 
 
+
+![image](https://github.com/user-attachments/assets/dabc712d-c05c-41fb-98e0-d8d598f64521)
+
+
 #### 참고 사이트
 - Defects location for metal surface/ The GC10-DET dataset
   https://www.kaggle.com/datasets/zhangyunsheng/defects-class-and-location/data
